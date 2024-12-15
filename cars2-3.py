@@ -15,7 +15,9 @@ time.sleep(2)
 
 dealers = [["Brand" , "Town" , "Phone number" , "Name" , "Adress" , "Showroom time"]]
 
-n = int(input("Choose a number"))
+n = 2
+
+# n = int(input("Choose a number"))
 
 bob = 0
 
